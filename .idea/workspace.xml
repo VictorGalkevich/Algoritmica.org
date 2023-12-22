@@ -5,13 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fc9b6014-e0a7-4837-9809-784bb018c1ed" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/src/SegmentTree/Default.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SegmentTree/LazyBuilding.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SegmentTree/LazyPropagation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/binarysearch/AnswerBinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/binarysearch/DefaultBinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sequences/CoordinatesCompression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/decomposition/scanline/LengthOfSegmentsMerge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/decomposition/scanline/PointCoveredByMostSegments.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/binarysearch/AnswerBinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/binarysearch/AnswerBinarySearch.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,6 +59,8 @@
       <workItem from="1703012187638" duration="4496000" />
       <workItem from="1703136660160" duration="2751000" />
       <workItem from="1703139480708" duration="5060000" />
+      <workItem from="1703165824379" duration="1221000" />
+      <workItem from="1703273206514" duration="2930000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <option name="closed" value="true" />
@@ -71,7 +70,15 @@
       <option name="project" value="LOCAL" />
       <updated>1703016458374</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="commit">
+      <option name="closed" value="true" />
+      <created>1703165843882</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1703165843882</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
